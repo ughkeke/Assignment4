@@ -1,0 +1,22 @@
+html { 
+    background: #111; 
+}
+body { 
+    background: #ddd;
+    width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+
+    font-family: "Zilla Slab" , serif;
+        line-height: 1.75;
+}
+h1 { 
+    font-family: "Sigmar One", cursive;
+ }
+h2 { 
+    font-family: "Sigmar One", cursive;
+}
+
+h3 {
+    font-family: "Sigmar One", cursive; 
+}

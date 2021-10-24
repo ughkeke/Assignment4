@@ -1,0 +1,21 @@
+html {
+ background: #111;
+  }
+body { 
+    background: #ddd;
+    width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+
+    font-family: "Fontdiner Swanky", cursive;
+    line-height: 2.0;
+}
+h1 { 
+    font-family: "Gamja Flower", cursive;
+ }
+h2 { 
+    font-family: "Gamja Flower", cursive;
+}
+h3 { 
+    font-family: "Gamja Flower", cursive;
+}
